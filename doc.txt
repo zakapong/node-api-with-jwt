@@ -1,0 +1,1 @@
+Use postman to get to token from login route. once oyu have that then go back to postman, select a get req, select the header and type Authorozation and in the fiels type Bearer then token.
